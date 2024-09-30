@@ -1,0 +1,77 @@
+@charset "UTF-8";
+
+    body{
+        background-color: black;
+        color: red;
+    }
+
+    .introducao{
+        text-align: justify;
+        padding: 40px;
+        
+    }
+
+    .container{
+        display: flex;
+        justify-content:space-around;
+    }
+
+    .sobre{
+        text-align: center;
+        padding: 10px;
+        border: double 6px;
+        border-radius: 20px;
+        background-color:darkgray;
+    }
+
+    .contatos{
+        text-align: center;
+        padding: 10px;
+        border: double 6px;
+        border-radius: 20px;
+        background-color:darkgray;
+
+    }
+
+    .personagens{
+        text-align: center;
+        padding: 10px;
+        border: double 6px;
+        border-radius: 20px;
+        background-color:darkgray;
+    }
+
+    .contatos2{
+        width: 30%;
+        height: 30%;
+        box-shadow: 0 0 10px red;
+    }
+
+    .imagem{
+        text-align: center;
+    }
+
+    .perso{
+        text-align: center;
+        padding: 20px;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .viper{
+        text-align: center;
+        padding: 10px;
+        border: double 6px;
+        border-radius: 20px;
+        background-color:darkgray;
+        width: 30%;
+    }
+
+    .jett{
+        text-align: center;
+        padding: 10px;
+        border: double 6px;
+        border-radius: 20px;
+        background-color:darkgray;
+        width: 30%;
+    }
